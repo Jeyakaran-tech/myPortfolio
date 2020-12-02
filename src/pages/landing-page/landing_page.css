@@ -1,0 +1,40 @@
+.landing-grid{
+  background-image: url("https://images.wallpaperscraft.com/image/code_letters_screen_blur_colorful_136706_1280x720.jpg");
+  height: 100vh;
+  width: 100%;
+  object-fit: contain;
+}
+
+.banner-text {
+  background-color: black;
+	opacity: .8;
+  width: 80%;
+  height: fit-content;
+  margin: auto;
+  text-align: center;
+  border-radius: 10px;
+  padding: 5px;
+  top: 10%;
+  left: 12%;
+  position: absolute;
+}
+
+.banner-text h1 {
+  font-size: 45px;
+  font-weight: bold;
+  color: white;
+  padding-top: 1em;
+}
+
+.banner-text hr {
+  border-top: 5px dotted white;
+  width: 50%;
+  margin: auto;
+  bottom: 10%;
+}
+
+.banner-text p {
+  color: white;
+  font-size: 22px;
+  padding: 1em;
+}

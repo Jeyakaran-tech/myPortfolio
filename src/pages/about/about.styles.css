@@ -1,0 +1,17 @@
+.about {
+  background-color: transparent;
+  font-size: 1.1em;
+  height: 38em;
+}
+
+.profile {
+  max-width: 22em;
+  height: 22em;
+}
+
+
+.font-details {
+  font-size: 3em;
+  font-weight: 500;
+  color: #231d5af8;
+}
