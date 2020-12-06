@@ -9,6 +9,8 @@ import Experience from './pages/experience/experience.component';
 import Projects from './pages/projects/projects.component';
 import Particles from "react-particles-js";
  import { particlesOptions } from "./particlesOptions";
+ import Footer from './pages/Footer/footer.component';
+ import Contact from './pages/Contact/contact';
 import "./App.css";
 
 const App = () => {
@@ -50,7 +52,11 @@ const App = () => {
             <Projects />
           </Fade>
         </Container>
-      
+        <hr/>
+<Contact/>
+        <hr/>
+<Footer/>
+
     </div>
   );
 };

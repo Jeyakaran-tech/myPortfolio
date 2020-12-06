@@ -29,14 +29,14 @@ const About = () => {
                     </a>
                   </div>
                   <div>
-                    <a href="https://drive.google.com/file/d/1Snbq3x4Itk_ZN4c8J96aNdp4SunXR08Y/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                    <a href="https://drive.google.com/file/d/1CfMY4NM1G7gFlmYXcK9_o554vHCdAVQn/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                       <Button className="m-2" variant="outline-success">
                         My Resume
                       </Button>
                     </a>
                   </div>
                   <div>
-                    <a href="https://github.com/akjha96" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/Jeyakaran-tech" target="_blank" rel="noopener noreferrer">
                       <Button className="m-2" variant="outline-dark">
                         GitHub
                       </Button>
@@ -53,19 +53,15 @@ const About = () => {
               </Row>
             </Col>
             <Col xs={12} md={6}>
-              <Row className=" align-items-start p-2 my-details rounded">
+              <Row className=" align-items-left p-2 my-details rounded">
                 Hi! I am <strong>&nbsp;Jeyakaran Karnan</strong>
-                <br />A passionate programmer and a Coach, born and brought up in India. 
-                I am a Full Stack Web Developer with React.js, Redux, Express.js, Node.js, and PostgreSQL 
-                as my tech stack.
+                <br />A passionate programmer with copious knowledge in Data manipulation, from India.
                 <br />
-                In 2019, I successfully completed my Engineering with specialization in 'Electronics and Telecommunication'.
+                In 2017, I successfully completed my Under-graduation in Engineering with specialization in 'Information Technology'.
                 <br />
-                Working with the clients, my goal is always driven towards providing amazing experience with the best level of quality and service to them.
-                <br />
-                Along with that, I also help people as a COACH on their journey of becoming a professional programmer. 
-                <br />I love learning about new technologies, what problems are they solving and How can I use them to build better and scalable products.
-                <br /> <br />
+                The same year I got amazing opportunity to work with Cognizant, which pulled some of corporate knowledge out of me by solving 
+                the business problem to the highest level of Client Satisfaction.
+                 <br />
     
               </Row>
             </Col>

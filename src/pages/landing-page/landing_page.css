@@ -14,7 +14,7 @@
   text-align: center;
   border-radius: 10px;
   padding: 5px;
-  top: 10%;
+  top: 7%;
   left: 12%;
   position: absolute;
 }
@@ -37,4 +37,16 @@
   color: white;
   font-size: 22px;
   padding: 1em;
+}
+.social-links {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  margin: auto;
+}
+
+.social-links i {
+  color: white;
+  font-size: 5em;
+  padding: 8px;
 }

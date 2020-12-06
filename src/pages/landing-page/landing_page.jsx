@@ -16,7 +16,7 @@ const landing_page = () => {
 
           <p>Python | R | Advanced Java | JavaFX | React | React Bootstrap | Pl/Sql | Microsoft Azure</p>
                   
-           
+      
         </div>
         </Cell>
         </Grid>
