@@ -18,14 +18,15 @@ const MyNavbar = () => {
             <img className="logo" src={Logo} alt=""/>&nbsp;&nbsp;&nbsp;Jeyakaran Karnan
           </Navbar.Brand>
         </div>
-        <div>
+        <div >
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ml-auto ">
-              <Nav.Link href="#about">About</Nav.Link>
-              <Nav.Link href="#experience">Experience</Nav.Link>
-              <Nav.Link href="#projects">Projects</Nav.Link>
-              <Nav.Link href="#contact">Contact</Nav.Link>
+            <Nav.Link className="nav-links" href="/">Home</Nav.Link>
+              <Nav.Link className="nav-links" href="#about">About</Nav.Link>
+              <Nav.Link className="nav-links" href="#experience">Experience</Nav.Link>
+              <Nav.Link className="nav-links" href="#projects">Projects</Nav.Link>
+              <Nav.Link className="nav-links" href="#contact">Contact</Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </div>

@@ -11,6 +11,7 @@
   }
   .modal {
     font-size: 12px;
+   height: 54em;
   }
   .modal > .header {
     width: 100%;
@@ -28,6 +29,8 @@
     padding: 10px 5px;
     margin: auto;
     text-align: center;
+  
+
   }
   .modal > .close {
     cursor: pointer;
@@ -42,15 +45,17 @@
     border-radius: 18px;
     border: 1px solid #cfcece;
   }
+
+
   .focus {
     transition: transform .4s ease;
-    filter: brightness(0.8);
+    filter: brightness(0.9);
 
 
   }
   
   .focus:hover {
-    transform: scale(1.1);
+    transform: scale(1.15);
     filter: brightness(1.2);
     box-shadow: var(--box-shadow);
   }
