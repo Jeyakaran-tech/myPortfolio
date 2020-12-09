@@ -54,14 +54,19 @@ const About = () => {
             </Col>
             <Col xs={12} md={6}>
               <Row className=" align-items-left p-2 my-details rounded">
+               
                 Hi! I am <strong>&nbsp;Jeyakaran Karnan</strong>
-                <br />A passionate programmer with copious knowledge in Data manipulation, from India.
+                <p>
+                <br />A passionate programmer, from India who successfully completed Under-graduation in Engineering with specialization in <strong>'Information Technology' in 2017.</strong> I love learning and update myself 
+                in technology, which is changing day to day.
                 <br />
-                In 2017, I successfully completed my Under-graduation in Engineering with specialization in 'Information Technology'.
-                <br />
-                The same year I got amazing opportunity to work with Cognizant, which pulled some of corporate knowledge out of me by solving 
-                the business problem to the highest level of Client Satisfaction.
+                After which I worked in a Multi National Corporate Company, which went really well. Working with Clients and amazing leads in my company, 
+                I learnt delivering the products with high efficiency and accuracy. After two years, I 
+                really wanted to shape my career deep in <strong>Data Science.</strong>  
+                <br/>After which, I came to Australia to pursue my <strong>Masters in Data Science.</strong> With all my power in knowledge gained so far and with my ambitious interest in learning and update myself, 
+                I am Seeking to leverage the data solutions to the maximum to solve the different business problems which results in the welfare of the Society.
                  <br />
+                 </p>
     
               </Row>
             </Col>

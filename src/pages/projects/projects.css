@@ -107,3 +107,8 @@ padding-left: 18rem;
     overflow-y: scroll;
     
 }
+
+.card-img:hover{
+  cursor: pointer;
+}
+
