@@ -5,6 +5,7 @@ import {Grid,Cell} from 'react-mdl';
 
 const landing_page = () => {
     return (
+      <div id="home">
         <div style={{width: '100%', margin: 'auto'}}>
         <Grid className="landing-grid">
           <Cell col={12}>
@@ -20,6 +21,7 @@ const landing_page = () => {
         </div>
         </Cell>
         </Grid>
+        </div>
         </div>
     );
 };
